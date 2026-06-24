@@ -9,7 +9,7 @@
 <p align="center">
   <a href="mailto:reach2.anupindi@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/suryatejaanupindi">💼 LinkedIn</a> •
-  <a href="https://sensational-cascaron-9846c7.netlify.app/">🌐 Portfolio</a> •
+  <a href="https://agent-6a3c04dac2903--sensational-cascaron-9846c7.netlify.app">🌐 Portfolio</a> •
   <a href="https://github.com/GehrmanSparrow-dev">🐙 GitHub</a>
 </p>
 
