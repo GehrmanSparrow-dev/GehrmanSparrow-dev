@@ -68,6 +68,13 @@
 
 ## 🚀 Projects
 
+### 📄 ArgRAG: Argument-Aware Retrieval-Augmented Generation *(Research)*
+`BERT` `RoBERTa` `DeBERTa` `FLAN-T5` `FAISS` `HuggingFace` `BEIR`
+
+Published research introducing **ArgRAG**, a novel RAG architecture that inserts an explicit argumentation layer between retrieval and generation. Classifies each retrieved passage as *supportive*, *adversarial*, or *neutral*, then prompts a generator to reason over the structured argument set before producing a verdict and natural-language justification. Evaluated on the BEIR-FEVER benchmark against six baselines — achieving **+3.4% factual accuracy** and **+21% human-rated explanation quality** over vanilla RAG, with a calibration ECE of 0.043 vs. the baseline's 0.087.
+
+---
+
 ### 🧬 Multimodal Clinical Outcome Prediction — MIMIC-IV
 `PyTorch` `Hugging Face` `BioClinicalBERT` `SQLAlchemy` `Scikit-learn`
 
